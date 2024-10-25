@@ -32,7 +32,7 @@ class AddAddressController extends GetxController {
   final List<String> addressTypes = ['Home', 'Office', 'Others'];
 
   // You should replace this with your actual Google Maps API key
-  final String googleMapsApiKey = "AIzaSyCLg_Oahf9q1keNmJoqHc_Uk4f0fu3YmxU";
+  final String googleMapsApiKey = "Google Map Api Key";
 
   @override
   void onInit() {
